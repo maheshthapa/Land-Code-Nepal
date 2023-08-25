@@ -7,4 +7,14 @@ File Structure:
   - Acts ऐन
   - Regulations नियमावली
   - Rules नियम
-  - 
+  - Directives निर्देशिका
+  - Guidelines दिशानिर्देश
+  - Formation Directives गठन आदेश
+  - Procedures कार्यविधि
+  - Strategy कार्यनीति
+  - Circulars परिपत्र
+  - Letters पत्र
+  - Standars मापदण्ड
+  - Handouts 
+  - Checklists
+  - Books पुस्तक
