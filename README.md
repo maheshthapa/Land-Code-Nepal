@@ -1,24 +1,9 @@
-# land_law_repo_nepal
-Repository of land laws pertinent to Nepal
+This repository consists of official documents (acts, regulations, circulars, etc.) relevant to land in Nepal.
+This would be helpful for people who want to better understand the legal environment regarding land in Nepal.
 
-File Structure:
-- Collection
+This repository consititutes the following types of documents:
   - Constitution संविधान
-    - नेपालको संविधान, २०७२
   - Acts ऐन
-    - गुठी संस्थान ऐन, २०३३
-    - जग्गा नापजाँच ऐन, २०१९
-    - जग्गा प्राप्ति ऐन, २०३४
-    - विर्ता उन्मुलन ऐन, २०१६
-    - भूउपयोग ऐन, २०७६
-    - भूमि प्रशासन ऐन, २०२४
-    - भूमि सम्बन्धी ऐन, २०२१ (छैठौं संसोधन - २०६१)
-    - भूमि सम्बन्धी ऐन, २०२१ (आठौं संसोधन - २०७६)
-    - मालपोत (मिन्हा) ऐन, २०१९
-    - मालपोत (विशेष ऐन), २०१८
-    - मालपोत ऐन, २०२०
-    - मुलुकी ऐन, २०२०
-    - मुलुकी देवानी (संहिता) ऐन, २०७४
   - Regulations नियमावली
   - Rules नियम
   - Directives निर्देशिका
@@ -32,9 +17,9 @@ File Structure:
   - Handouts 
   - Checklists
   - Books पुस्तक
-    - Land Dictionary भूमि शब्दकोष, २०७७
-    - जग्गा नापजाँच सम्बन्धी कानूनहरुको संगालो, २०८०
-    - भूमि सम्बन्धी केही नीति, कानुुन र नियमहरुको सँगालो, २०७७
-    - भूमि सम्बन्दी कानूनी श्रोत सामग्री (कानून, राजपत्र तथा नजीरहरुको संग्रह), २०७७
-    - लिखत रजिष्ट्रेशन शतवार्षिकी स्मृतीग्रन्थ, २०७९
+
+All documents are placed in Collection folder. 
+Explore the wiki page for browsing to particular document.
+
+
       
