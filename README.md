@@ -2,12 +2,9 @@
 Repository of land laws pertinent to Nepal
 
 File Structure:
-<dl>
-  <dt>Collection</dt>
-  <dd>Main folder constituting all documents.</dd>
-    <dt>Act</dt>
-    <dd> Collection of Acts</dd>
-  
-  
-  
-</dl>
+- Collection
+  - Constitution संविधान
+  - Acts ऐन
+  - Regulations नियमावली
+  - Rules नियम
+  - 
